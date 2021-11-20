@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanepr&label=Profile%20views&color=0e75b6&style=flat" alt="ishanepr" /> </p>
 
-- 🔭 I’m currently working on *Sashreeka,Bodima (Group Projects)*
+- 🔭 I’m currently working at *X-Venture Global Solutions Pvt Ltd.*
 
 - 🌱 I’m currently learning *SpringBoot, Micro-services, NodeJS, ReactJS, ReactNative, PostgreSQL*
 
